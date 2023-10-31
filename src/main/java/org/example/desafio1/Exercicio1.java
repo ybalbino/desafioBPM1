@@ -1,4 +1,4 @@
-package org.example.desafioLogicaCondicionais;
+package org.example.desafio1;
 
 import java.util.Scanner;
 

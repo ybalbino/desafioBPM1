@@ -1,9 +1,5 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç­©Î8é¥‡‘¸1
-X
-java:S1854
-"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8î¥‡‘¸1
-I
-java:S1481
-"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ó¥‡‘¸1
-L	java:S106"+Replace this use of System.out by a logger.(Ûóàäûÿÿÿÿ8Ê”ˆ‘¸1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç­©Î8ıĞù­¸1
+G	java:S106"+Replace this use of System.out by a logger.(–èÏğ8“Ñù­¸1
+L	java:S106"+Replace this use of System.out by a logger.(—üìÿÿÿÿÿ8–Ñù­¸1
+L	java:S106"+Replace this use of System.out by a logger.(Î®÷¦ıÿÿÿÿ8–Ñù­¸1
